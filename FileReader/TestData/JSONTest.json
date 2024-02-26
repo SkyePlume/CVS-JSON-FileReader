@@ -1,0 +1,32 @@
+[
+  {
+    "CustomerID": 1,
+    "CustomerName": "Patrick Stewart",
+    "AccountBalance": 100000000.10,
+    "DateCreated": "01-01-2001"
+  },
+  {
+    "CustomerID": 2,
+    "CustomerName": "Kelsey Grammer",
+    "AccountBalance": 5000.10,
+    "DateCreated": "01-01-2002"
+  },
+  {
+    "CustomerID": 3,
+    "CustomerName": "James McAvoy",
+    "AccountBalance": 70000.10,
+    "DateCreated": "01-01-2003"
+  },
+  {
+    "CustomerID": 4,
+    "CustomerName": "Hugh Jackman",
+    "AccountBalance": 820000.10,
+    "DateCreated": "01-01-2004"
+  },
+  {
+    "CustomerID": 5,
+    "CustomerName": "Ian Mckellen",
+    "AccountBalance": 10000.10,
+    "DateCreated": "01-01-2005"
+  }
+]
